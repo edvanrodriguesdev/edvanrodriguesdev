@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Edvan Rodrigues 👨‍💻
 
-<h2><a href ="https://edvanrodriguesdev.vercel.app/" target=”_blank”>Confira meu portfólio</a></h2>
+<h2><a href ="https://edvanrodriguesdev.vercel.app/" target="_blank">Confira meu portfólio</a></h2>
 
 <div>
 <a href="https://github.com/edvanrodriguesdev">
