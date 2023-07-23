@@ -2,8 +2,6 @@
 
 <h2><a href ="https://edvanrodriguesdev.vercel.app/" target="_blank">Confira meu portfólio</a></h2>
 
-[Portfolio]((https://edvanrodriguesdev.vercel.app/)" target="_blank)
-
 <div>
 <a href="https://github.com/edvanrodriguesdev">
   <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs?username=edvanrodriguesdev&layout=compact&theme=dracula&langs_count=16"/>
