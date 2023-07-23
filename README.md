@@ -2,7 +2,7 @@
 
 <h2><a href ="https://edvanrodriguesdev.vercel.app/" target="_blank">Confira meu portfólio</a></h2>
 
-[Portfolio]([https://google.com](https://edvanrodriguesdev.vercel.app/)" target="_blank)
+[Portfolio]((https://edvanrodriguesdev.vercel.app/)" target="_blank)
 
 <div>
 <a href="https://github.com/edvanrodriguesdev">
