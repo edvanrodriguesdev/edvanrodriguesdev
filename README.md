@@ -1,11 +1,10 @@
 ## Olá! Eu sou o Edvan Rodrigues 👨‍💻
 
-<h2><a href ="https://github.com/edvanrodriguesdev">Confira meu portfólio</a></h2>
+<h2><a href ="https://edvanrodriguesdev.vercel.app/">Confira meu portfólio</a></h2>
 
 <div>
 <a href="https://github.com/edvanrodriguesdev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edvanrodriguesdev&hide=stars&theme=dracula&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=edvanrodriguesdev&layout=compact&theme=dracula&langs_count=16"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs?username=edvanrodriguesdev&layout=compact&theme=dracula&langs_count=16"/>
 </div>
 
 <div style="display: inline_block"><br>
