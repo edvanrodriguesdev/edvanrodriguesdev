@@ -1,4 +1,4 @@
-## Olá! Eu sou o Edvan Rodrigues &nbsp 👨‍💻
+## Olá! Eu sou o Edvan Rodrigues 👨‍💻
 
 <h2><a href ="https://github.com/edvanrodriguesdev">Confira meu portfólio</a></h2>
 
